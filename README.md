@@ -7,7 +7,7 @@
 - [Section 04 - PostgreSQL Table Joins with SQL](https://github.com/romulovieira777/SQL_with_PostgreSQL_for_Beginners_Analyze_Manipulate_Data/tree/main/Section_04_PostgreSQL_Table_Joins_with_SQL)
 - [Section 05 - PostgreSQL Operators with SQL](https://github.com/romulovieira777/SQL_with_PostgreSQL_for_Beginners_Analyze_Manipulate_Data/tree/main/Section_05_PostgreSQL_Operators_with_SQL)
 - [Section 06 - PostgreSQL Aggregate Functions with SQL](https://github.com/romulovieira777/SQL_with_PostgreSQL_for_Beginners_Analyze_Manipulate_Data/tree/main/Section_06_PostgreSQL_Aggregate_Functions_with_SQL)
-- [Section 07 - PostgreSQL Analytic Functions with SQL]()
+- [Section 07 - PostgreSQL Analytic Functions with SQL](https://github.com/romulovieira777/SQL_with_PostgreSQL_for_Beginners_Analyze_Manipulate_Data/tree/main/Section_07_PostgreSQL_Analytic_Functions_with_SQL)
 
 
 Link to the course: [Udemy](https://www.udemy.com/course/sql-with-postgresql-for-beginners-analyze-manipulate-data/)
